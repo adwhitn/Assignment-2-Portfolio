@@ -35,7 +35,7 @@ header nav ul li a {
     font-size: 22px;
 }
 .hero {
-    background-image: url(../assignment-2-portfolio/Big\ bend\ desert.jpg);
+    background-image: url(./Big\ bend\ desert.jpg);
     height: 625px;
     background-size: cover;
     background-position: center;
@@ -66,7 +66,7 @@ header nav ul li a {
 .flext-container center {
     padding: 0;
     margin: 0;
-    background-image: url(../assignment-2-portfolio/portriat.jpeg);
+    background-image: url(./portriat.jpeg);
     list-style: none;
     border: 0px solid #CB6015;
     -ms-box-orient: horizontal;
